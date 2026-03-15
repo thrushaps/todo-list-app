@@ -1,4 +1,4 @@
-# todo-list-app
+# Todo-list-app
 A simple To-Do List web application that allows users to manage daily tasks.
 Technologies used:
 Python
